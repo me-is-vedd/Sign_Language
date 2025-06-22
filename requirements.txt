@@ -4,4 +4,4 @@ mediapipe
 scikit-learn
 joblib
 numpy
-python-3.7.12
+python-3.4
